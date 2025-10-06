@@ -1,2 +1,2 @@
 # BetaAbalone
-Abalone Implementatino
+Abalone Implementation
